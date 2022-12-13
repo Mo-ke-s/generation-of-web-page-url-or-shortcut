@@ -1,5 +1,5 @@
 # 油猴脚本/TamperMonkey Script
-**一键生成网页url/快捷方式,并下载到本地。/One-click generation of web page url/shortcut, and download to local。**
+**一键生成网页url/快捷方式,并下载到本地。**
 
 现在的浏览器少有一键生成网页url/快捷方式的功能，不便于本地管理收藏链接。这个脚本可以一键获取网页标签+当前年月日，生成url文件,并下载到本地。
 
